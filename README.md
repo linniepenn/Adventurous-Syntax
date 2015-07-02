@@ -1,12 +1,15 @@
 # Adventurous Syntax theme
 
-A dark Atom theme using common colours often seen in the cult series **Adventure Time**.
+What's up Adventure Time fans! Here's a Dark Atom theme I've created using colours you can find primarily in the  seen in everyone's favorite  series **Adventure Time**.
 
 ![Adventure Time!](http://img1.wikia.nocookie.net/__cb20120811190505/adventuretimewithfinnandjake/images/2/24/Ci_banner_2k12mar20_adventuretime.jpeg)
 
-Based on the Base16 Tomorrow Dark syntax theme by the Atom team.
+This theme was crafted based upon  the Base16 Tomorrow Dark syntax theme by the Atom team.
 
-**Why?** Because Adventure Time's colours are crisp and awesome!
+**Why?** Because I love Adventure Time's colours - they are so vibrant and mind-numbingly awesome!
+For the uninitiaed, Adventure Time is an awesome series created by Pendleton Ward. The show garnered close to 40 award nominations since its inception in 2007, six seasons ago. It won 12 awards (and counting!) so far, a feat that's hard to replicate by other peers.
+Adventure Time is well-loved because of its quirky and memorable characters, awkward situations (dude, did Marceline and Princess Bubblegum go on dates?) and EPIC one-liners (think Jake's "I'll kill you and raise your children as my own!" and Lumpy Space Princess' "My lumpshake brings all the boys to the yard").
+
 
 ## Installation
 
